@@ -3,8 +3,14 @@ composite multiple files togethor. shrinks lines above 80 chars. useful for givi
 
 ## Usage
 ```bash
-cargo run sketch.js style.css index.html  | xclip -selection clipboard
+coshr sketch.js style.css index.html  | xclip -selection clipboard
 ```
+or using the wrapper script 'csc' included, which is installed by install.sh
+```bash
+csc sketch.js style.css index.html
+```
+
+
 
 
 ## Install
