@@ -1,5 +1,5 @@
 # coshr
-composite multiple files togethor. shrinks lines above 80 chars. useful for
+composite multiple files togethor. shrinks lines above 80 chars. useful for giving somebody code context (like, gpt4)
 
 ## Usage
 ```bash
